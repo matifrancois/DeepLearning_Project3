@@ -2,3 +2,5 @@ datalore-env-format-version: "0.2"
 datalore-package-manager: "pip"
 datalore-base-env: "default"
 dependencies:
+datalore-env-git-repos:
+- https://github.com/matifrancois/DeepLearning_Project3.git@master
